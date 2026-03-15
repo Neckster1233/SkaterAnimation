@@ -76,31 +76,11 @@ crashlytics-build.properties
 [Aa]rtifacts/
 
 # Maya Problem Folders
-[Aa]ssets/
 [Aa]utosave/
 
 # Problem Files
 *.mp4
 *.avi
 *.exr
-
-DAGV1100/AdventureGame/Library/
-
-DAGV1100/AdventureGame/Logs/
-
-DAGV1100/AdventureGame/Packages/
-
-DAGV1100/AdventureGame/Temp/
-
-DAGV1200/Maya/images/
-
-DAGV1200/Maya/cache/
-
-DAGV1200/Maya/movies/
-
-DAGV1700/AdventureGame/Library/
-/DAGV1700/AdventureGame/Temp
-/DAGV1700/AdventureGame/Logs
 *.log
 *.dwlt
-/DAGV1700/AdventureGame/Logs

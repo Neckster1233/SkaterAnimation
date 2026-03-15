@@ -17,3 +17,4 @@
 *.mb filter=lfs diff=lfs merge=lfs -text
 *.exr filter=lfs diff=lfs merge=lfs -text
 *.hdr filter=lfs diff=lfs merge=lfs -text
+*.ma filter=lfs diff=lfs merge=lfs -text
